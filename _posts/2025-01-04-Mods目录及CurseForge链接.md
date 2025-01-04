@@ -1,5 +1,14 @@
-**Minecraft-1.19.2-Forge**  
-**不包括前置mod及扩展**  
+---
+layout: post
+title: "Mods目录及CurseForge链接“
+tags: [Minecraft]
+categories: [1.19.2]
+---
+
+## Minecraft-1.19.2-Forge  
+
+## 不包括前置mod及扩展  
+
 [机械动力](https://www.curseforge.com/minecraft/mc-mods/create)  
 [匠魂3](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)  
 [通用机械](https://www.curseforge.com/minecraft/mc-mods/mekanism)  
@@ -17,5 +26,4 @@
  [IPN](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)  
  [MGU](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)  
  [烟花苦力怕](https://www.curseforge.com/minecraft/mc-mods/creeper-confetti)  
- [真实物理](https://www.curseforge.com/minecraft/mc-mods/physics-mod) 
- 
+ [真实物理](https://www.curseforge.com/minecraft/mc-mods/physics-mod)  
