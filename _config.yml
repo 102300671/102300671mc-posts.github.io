@@ -21,7 +21,7 @@
 title: "Your awesome title"
 email: "jy2193807541@gmail.com"
 description: "This is your site's description."
-baseurl: "/your-repo-name" # the subpath of your site, e.g. /blog
+baseurl: "" # 如果你在本地预览，确保这里为空字符串
 url: "https://github.com/102300671/102300671try.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
