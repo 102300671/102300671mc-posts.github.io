@@ -24,7 +24,7 @@ description: "This is your site's description."
 baseurl: "/102300671mc-posts.github.io" # 替换为你的仓库名称
 url: "https://102300671.github.io" # 替换为你的 GitHub 用户名
 twitter_username: jekyllrb
-github_username:  102300671
+github_username:  "102300671"
 
 # Build settings
 theme: minima
